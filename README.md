@@ -65,7 +65,7 @@
 - Genuine observational panel: 427 district-year rows, 12 districts, 2000–2024 — no synthetic yields in the deployed model
 - Recorded yields end at 2024; 2025–2026 are clearly labelled weather-observed season **estimates**
 - Mentored by **Dr. E. Raveendra Reddy**, Dept. of CSE, KL University
-- Team: Rajesh Nemalipuri · Laxmi Pavani · Mullapudi Pravallika
+- Team: Rajesh Nemalipuri · Lakshmi Pavani · Mullapudi Pravallika
 
 </details>
 
