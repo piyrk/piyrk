@@ -119,7 +119,6 @@
 
 ## 🐍 My Contributions, Eaten Fresh Daily
 
-<!-- SNAKE: uncomment after the first Generate Snake workflow run creates the output branch
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piyrk/piyrk/output/github-contribution-grid-snake-dark.svg" />
@@ -127,7 +126,6 @@
   <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/piyrk/piyrk/output/github-contribution-grid-snake.svg" />
 </picture>
 </div>
--->
 
 ---
 
