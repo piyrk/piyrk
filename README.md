@@ -16,6 +16,8 @@
 
 ---
 
+<img align="right" width="235" src="https://raw.githubusercontent.com/piyrk/piyrk/main/assets/piyush-kumar.jpg" alt="Piyush Kumar" />
+
 ## 🙋‍♂️ About Me
 
 - 🎓 Final-year **BTech CSE** student at **KL University**, Vaddeswaram — CGPA **9.18**
@@ -25,6 +27,19 @@
 - 🧠 Keen interest in **DSA / algorithmic problem solving**
 - 🎯 Preparing for **GATE CS 2027** (IIT Madras)
 - 📍 Andhra Pradesh, India
+
+<details>
+<summary><b>🎯 What I'm working towards</b></summary>
+<br/>
+
+- 📝 **GATE CS 2027** (IIT Madras) — deep in preparation alongside the final year
+- 🏢 Joining **Infosys** as a Digital Specialist Engineer after graduation (2027)
+- 📄 Publishing the ClimateRice-AI work — turning the capstone into a research paper
+- 🌱 Levelling up on system design and full-stack development
+
+</details>
+
+<br clear="right" />
 
 ---
 
@@ -99,6 +114,20 @@
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=piyrk&theme=tokyonight&no-frame=true&margin-w=6" alt="Trophies" />
 </div>
+
+---
+
+## 🐍 My Contributions, Eaten Fresh Daily
+
+<!-- SNAKE: uncomment after the first Generate Snake workflow run creates the output branch
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piyrk/piyrk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/piyrk/piyrk/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/piyrk/piyrk/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
+-->
 
 ---
 
